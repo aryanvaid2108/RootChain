@@ -49,4 +49,3 @@ Provided blockchain features such as sending / receiving crypto currency.
 - We plan to extend this platform for small business, startups and student projects in the near future. This would be a game-changer as the existing ways to raise money have the aforementioned flaws. 
 - The front-end can be divided into separate views for political organizations, business and startups to make the user experience smooth and easy.
 - We also plan to integrate RootChain with platforms like Coinbase to give users a seamless ability to buy crypto from the platform and allow new users to create crypto wallets. 
-# RootChain
